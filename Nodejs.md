@@ -1,6 +1,6 @@
 # Node.js123
 
-- Node.js是JavaScript运行时环境
+- Node.js是JavaScript运行时环境123
 - Node.js可以解析和执行JavaScript代码
 - 以前只有浏览器可以解析和执行JavaScript代码
 - 现在可以脱离浏览器来运行，一切都归于Node.js
